@@ -14,7 +14,7 @@
 
   <footer class="footer">
 
-    <p>© <span id="year"></span> Nandhini| Made with 💖</p>
+    <p>© <span id="year"></span> Sridhar| Made with 💖</p>
 
   </footer>
 
